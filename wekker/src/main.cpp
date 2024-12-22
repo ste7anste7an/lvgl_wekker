@@ -49,8 +49,8 @@ Preferences pref;
 Audio audio;
 // void audio_set_volume(uint8_t cur_volume);
 
-String ssid =     "asus";
-String password = "Aapnootmies2018";
+String ssid =     "xxx";
+String password = "xxxx";
 
 String stations[] ={
         "https://icecast.omroep.nl/radio4-bb-mp3",
